@@ -9,3 +9,4 @@
 # 画像処理
 ## Open CV
 ## MediaPipe 
+杉川ぜみ
